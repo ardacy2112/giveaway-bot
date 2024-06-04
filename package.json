@@ -1,0 +1,14 @@
+{
+    "name": "cekilis-botu",
+    "version": "1.0.0",
+    "description": "Discord.js ile çalışan basit bir çekiliş botu",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "@discordjs/builders": "^1.8.2",
+        "discord.js": "^12.5.3",
+        "dotenv": "^8.6.0"
+    }
+}
